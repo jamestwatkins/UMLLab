@@ -1,0 +1,11 @@
+C:\Users\James\Desktop\Bootcamp\UMLLab\UMLLab\bin\Debug\netcoreapp2.1\UMLLab.deps.json
+C:\Users\James\Desktop\Bootcamp\UMLLab\UMLLab\bin\Debug\netcoreapp2.1\UMLLab.runtimeconfig.json
+C:\Users\James\Desktop\Bootcamp\UMLLab\UMLLab\bin\Debug\netcoreapp2.1\UMLLab.runtimeconfig.dev.json
+C:\Users\James\Desktop\Bootcamp\UMLLab\UMLLab\bin\Debug\netcoreapp2.1\UMLLab.dll
+C:\Users\James\Desktop\Bootcamp\UMLLab\UMLLab\bin\Debug\netcoreapp2.1\UMLLab.pdb
+C:\Users\James\Desktop\Bootcamp\UMLLab\UMLLab\obj\Debug\netcoreapp2.1\UMLLab.csprojAssemblyReference.cache
+C:\Users\James\Desktop\Bootcamp\UMLLab\UMLLab\obj\Debug\netcoreapp2.1\UMLLab.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\Bootcamp\UMLLab\UMLLab\obj\Debug\netcoreapp2.1\UMLLab.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\Bootcamp\UMLLab\UMLLab\obj\Debug\netcoreapp2.1\UMLLab.AssemblyInfo.cs
+C:\Users\James\Desktop\Bootcamp\UMLLab\UMLLab\obj\Debug\netcoreapp2.1\UMLLab.dll
+C:\Users\James\Desktop\Bootcamp\UMLLab\UMLLab\obj\Debug\netcoreapp2.1\UMLLab.pdb
